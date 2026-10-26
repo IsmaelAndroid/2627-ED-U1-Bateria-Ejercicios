@@ -46,16 +46,16 @@ git commit -am "Adaptativo: IGIC para pedidos de Canarias"
 ```text
 $ python3 tienda.py
 --- Pedido en la península ---
-cuaderno     4 x  2.50 =  10.00
-boli         5 x  0.80 =   4.00
-mochila      1 x 25.00 =  25.00
+cuaderno    4 x  2.50 =  10.00
+boli        5 x  0.80 =   4.00
+mochila     1 x 25.00 =  25.00
 Subtotal:                 39.00
 IVA (21 %):                8.19
 TOTAL:                    47.19
 --- Pedido en la península con cupón ED10 ---
 ...
 Descuento ED10:           -3.90
-...
+IVA (21 %):                7.37
 TOTAL:                    42.47
 --- Pedido en Canarias ---
 ...

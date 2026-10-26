@@ -18,7 +18,7 @@ public class Calentamiento {
     public static void main(String[] args) {
         // PASO 3: repite 10 rondas. En cada una:
         //   long inicio = System.nanoTime();
-        //   int total = contarPrimos(20000);
+        //   int total = contarPrimos(300000);
         //   long ms = (System.nanoTime() - inicio) / 1_000_000;
         //   System.out.println("Ronda " + ronda + ": " + total + " primos en " + ms + " ms");
 

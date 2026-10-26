@@ -39,10 +39,12 @@ ldd saludo
 
 ## ✅ Comprueba
 
+(Los números de la izquierda son direcciones y pueden cambiar; lo importante son las letras.)
+
 ```text
 $ nm saludo.o
 0000000000000000 T doble
-0000000000000014 T main
+0000000000000012 T main
                  U printf
 $ ./saludo
 El doble de 21 es 42

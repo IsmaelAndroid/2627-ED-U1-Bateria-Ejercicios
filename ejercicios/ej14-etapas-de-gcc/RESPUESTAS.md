@@ -7,7 +7,7 @@
 | Ensamblado | | | | |
 | Enlazado | | | | |
 
-1. `circulo.c` tiene unas 25 líneas y `circulo.i` tiene cientos. ¿De dónde salen todas esas líneas?
+1. `circulo.c` tiene unas 20 líneas y `circulo.i` tiene cientos. ¿De dónde salen todas esas líneas?
 
    >
 

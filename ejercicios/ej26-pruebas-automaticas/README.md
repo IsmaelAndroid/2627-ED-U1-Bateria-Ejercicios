@@ -29,12 +29,12 @@ python3 -m unittest -v
 ## ✅ Comprueba
 
 ```text
-test_descuento_cero ... ok
-test_descuento_del_20 ... ok
-test_descuento_no_valido ... ok
-test_iva_general ... ok
-test_iva_reducido ... ok
-test_iva_superreducido ... ok
+test_descuento_cero (test_tienda.TestTienda.test_descuento_cero) ... ok
+test_descuento_del_20 (test_tienda.TestTienda.test_descuento_del_20) ... ok
+test_descuento_no_valido (test_tienda.TestTienda.test_descuento_no_valido) ... ok
+test_iva_general (test_tienda.TestTienda.test_iva_general) ... ok
+test_iva_reducido (test_tienda.TestTienda.test_iva_reducido) ... ok
+test_iva_superreducido (test_tienda.TestTienda.test_iva_superreducido) ... ok
 ----------------------------------------------------------------------
 Ran 6 tests in 0.001s
 
