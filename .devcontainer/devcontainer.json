@@ -1,0 +1,9 @@
+{
+  "name": "ED U1 - Batería de ejercicios",
+  "image": "mcr.microsoft.com/devcontainers/universal:2",
+  "customizations": {
+    "vscode": {
+      "extensions": ["ms-python.python", "ms-vscode.cpptools", "vscjava.vscode-java-pack"]
+    }
+  }
+}

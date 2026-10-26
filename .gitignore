@@ -1,0 +1,7 @@
+# Ficheros que genera el compilador: no se suben (se pueden volver a crear)
+*.o
+*.class
+*.exe
+__pycache__/
+*.pyc
+a.out
