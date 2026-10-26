@@ -31,11 +31,11 @@ java -Xint Calentamiento
 Con JIT, las primeras rondas tardan **más** que las últimas. Algo parecido a:
 
 ```text
-Ronda 1: 25997 primos en 45 ms
-Ronda 2: 25997 primos en 20 ms
-Ronda 3: 25997 primos en 12 ms
+Ronda 1: 25997 primos en 35 ms
+Ronda 2: 25997 primos en 26 ms
+Ronda 3: 25997 primos en 24 ms
 ...
-Ronda 10: 25997 primos en 11 ms
+Ronda 10: 25997 primos en 24 ms
 ```
 
-Con `-Xint`, todas las rondas tardan parecido, y **mucho más**.
+Con `-Xint`, todas las rondas tardan parecido y **unas 10 veces más** (unos 240 ms cada una).
