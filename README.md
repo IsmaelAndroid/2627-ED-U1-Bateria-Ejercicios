@@ -14,19 +14,31 @@ Casi todos los ejercicios son **prácticos**: vas a compilar programas en C y Ja
 
 ---
 
-## 🚀 Cómo empezar (elige una opción)
+## 🚀 Cómo empezar
 
-### Opción A · GitHub Codespaces (recomendada, no hay que instalar nada)
+### Paso 1 · Haz tu copia (solo la primera vez)
 
-1. En la página de tu repositorio pulsa **`<> Code` → pestaña `Codespaces` → `Create codespace on main`**.
+Esta página es la **plantilla**: aquí no puedes guardar nada. Primero crea **tu propio repositorio** a partir de ella:
+
+1. Entra en GitHub con **tu cuenta**.
+2. Arriba a la derecha de esta página pulsa el botón verde **`Use this template` → `Create a new repository`**.
+3. En *Owner* deja **tu usuario**, ponle de nombre `ED-U1-Bateria-Ejercicios` y pulsa **`Create repository`**.
+
+A partir de ahora trabaja **siempre en tu copia** (`github.com/tu-usuario/ED-U1-Bateria-Ejercicios`), no en esta página.
+
+### Paso 2 · Ábrela para trabajar (elige una opción)
+
+#### Opción A · GitHub Codespaces (recomendada, no hay que instalar nada)
+
+1. En **tu copia** pulsa **`<> Code` → pestaña `Codespaces` → `Create codespace on main`**.
 2. Se abre un VS Code en el navegador con **Linux, `gcc`, `java`, `python` y `make` ya instalados**.
 3. Abre la terminal con **`Ctrl + ñ`** (o *Terminal → New Terminal*) y ya puedes trabajar.
 
-> ⏱️ Cuando acabes la clase, cierra la pestaña. El codespace se para solo y lo recuperas la próxima vez desde el mismo botón.
+> ⏱️ Cuando acabes la clase, cierra la pestaña. El codespace se para solo y lo recuperas la próxima vez desde el mismo botón de tu copia.
 
-### Opción B · En tu ordenador con VS Code
+#### Opción B · En tu ordenador con VS Code
 
-Necesitas **Git**, **Python 3**, un **JDK** (Java 17 o superior) y **gcc** (en Windows, [MSYS2](https://www.msys2.org/) o WSL). Clona el repositorio con `git clone URL`. Algunos ejercicios usan órdenes de Linux (`file`, `nm`, `ldd`…): si estás en Windows, hazlos en el Codespace.
+Necesitas **Git**, **Python 3**, un **JDK** (Java 17 o superior) y **gcc** (en Windows, [MSYS2](https://www.msys2.org/) o WSL). Clona **tu copia** con `git clone URL-de-tu-copia`. Algunos ejercicios usan órdenes de Linux (`file`, `nm`, `ldd`…): si estás en Windows, hazlos en el Codespace.
 
 ---
 
